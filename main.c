@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(int argc, const char *argv[]) {
-  printf("Hello, Mirum CI\n");
+  printf("Hello, mirum.dev\n");
 
   return 0;
 }
